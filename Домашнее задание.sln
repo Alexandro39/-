@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашнее задан
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашнее задание 3", "Домашнее задание 3\Домашнее задание 3.csproj", "{8C15F6D1-CDF6-46DB-8E07-6B3C22938055}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашнее задание 4", "Домашнее задание 4\Домашнее задание 4.csproj", "{98CFB6B2-884D-4FB3-BDB4-F0A7454C3019}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Домашнее задание 4", "Домашнее задание 4\Домашнее задание 4.csproj", "{98CFB6B2-884D-4FB3-BDB4-F0A7454C3019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "домашнее задание5", "домашнее задание5\домашнее задание5.csproj", "{385166D9-FA26-420C-94E4-C8ADB6FE46CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "домашнее задание5", "домашнее задание5\домашнее задание5.csproj", "{385166D9-FA26-420C-94E4-C8ADB6FE46CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Домашнее задание6", "Домашнее задание6\Домашнее задание6.csproj", "{C6069992-BB62-4DB3-A308-7D0587A9954C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{385166D9-FA26-420C-94E4-C8ADB6FE46CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{385166D9-FA26-420C-94E4-C8ADB6FE46CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{385166D9-FA26-420C-94E4-C8ADB6FE46CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6069992-BB62-4DB3-A308-7D0587A9954C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6069992-BB62-4DB3-A308-7D0587A9954C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6069992-BB62-4DB3-A308-7D0587A9954C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6069992-BB62-4DB3-A308-7D0587A9954C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
